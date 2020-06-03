@@ -1,4 +1,5 @@
 # Complexity-Project-2020
+##Oslo Model
 
 This is one of two computational projects from Complexity and Networks Module 19/20. Taught in the Department of Physics, Imperial College London.
 
