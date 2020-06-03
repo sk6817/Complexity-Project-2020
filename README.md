@@ -7,3 +7,7 @@ Abstract: The self-organisation and criticality of the Oslo Model were studied. 
 
 
 See README.txt for more info.
+
+WARNING: The codes and the project report are mine. They are only for educational purposes. 
+Please refer to them at your own risk. Irresponsibly copying the work can result in severe plagiarism 
+allegations by your institution. I am not responsible for such action. 
