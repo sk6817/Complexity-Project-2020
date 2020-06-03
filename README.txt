@@ -1,7 +1,7 @@
 COMPLEXITY PROJECT CODE
 SUHASAN KANAGASABAPATHY
 
-There are FOUR code(.py) files and ONE pickle(.pkl) file (not included due to large file size). 
+There are FOUR code(.py) files.
 
 Code files:
   Oslo_class.py: Contains the Oslo class, Runs the simulation and Saves it as a pickle file.
